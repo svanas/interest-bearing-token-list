@@ -1,0 +1,125 @@
+{
+    "$schema": "https://uniswap.org/tokenlist.schema.json",
+    "name": "Interest-Bearing Token List",
+    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXNG3ZYBTa5aPFWb7YZm3gH3UXeui1z6gQsYfaYyvz292",
+    "timestamp": "2020-11-30T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmcmFVsTuBkzwadDWQekVg9JuJF2Jn7GBnAwNkJjcqDwXx",
+            "name": "Compound DAI",
+            "symbol": "cDAI",
+            "decimals": 8
+        },
+        {
+            "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmQ4ULQ8jT4ABUVqUN7GZWJsYVkLvZjmdCxYbSvjBnKF9f",
+            "name": "Compound USDC",
+            "symbol": "cUSDC",
+            "decimals": 8
+        },
+        {
+            "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmSXYj2HJ1ub9VMsDPrnWBypgZ8qcYSbTiX6HUdBJ7jjWH",
+            "name": "Compound USDT",
+            "symbol": "cUSDT",
+            "decimals": 8
+        },
+        {
+            "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmcgYbqotw8drGQN25gg9Jcq4gX5z7SG2RJthXQgJXTMDr",
+            "name": "Aave DAI",
+            "symbol": "aDAI",
+            "decimals": 18
+        },
+        {
+            "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/Qmbq9BchMuJCadBLniWTP6ubnLYTVZperHCVcoiUiCYJuY",
+            "name": "Aave USDC",
+            "symbol": "aUSDC",
+            "decimals": 6
+        },
+        {
+            "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXDUdVfP8MaFnJQNsXu4Sk1Zn8t39PFGXGdE675BCt6sP",
+            "name": "Aave USDT",
+            "symbol": "aUSDT",
+            "decimals": 6
+        },
+        {
+            "address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmPa1ZradXVV6QGDREr14qWKRscexH5rdMVHoQsAHLyMpE",
+            "name": "Aave TUSD",
+            "symbol": "aTUSD",
+            "decimals": 18
+        },
+        {
+            "address": "0x6b093998D36f2C7F0cc359441FBB24CC629D5FF0",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmWNUsKcp23UvoHspfwcnNrmq1KLWQeiP6ZEjyGxUwC63N",
+            "name": "Fulcrum DAI",
+            "symbol": "iDAI",
+            "decimals": 18
+        },
+        {
+            "address": "0x32E4c68B3A4a813b710595AebA7f6B7604Ab9c15",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmQT2iUYDumtD6GcHngx7nC96fFkbDsuo7t5G91wEumqu6",
+            "name": "Fulcrum USDC",
+            "symbol": "iUSDC",
+            "decimals": 6
+        },
+        {
+            "address": "0x7e9997a38A439b2be7ed9c9C4628391d3e055D48",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmNUS8VoCzy3dveqQNcJEwH8c7tMPXAcuJg2UbG3dvv3dP",
+            "name": "Fulcrum USDT",
+            "symbol": "iUSDT",
+            "decimals": 6
+        },
+        {
+            "address": "0x3fe7940616e5bc47b0775a0dccf6237893353bb4",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmSyuKqDqFMqVuYnJvdaD1S3nLCZJBgdC631SgA7GNv9v7",
+            "name": "Idle DAI",
+            "symbol": "IdleDAI",
+            "decimals": 18
+        },
+        {
+            "address": "0x5274891bEC421B39D23760c04A6755eCB444797C",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmebYZX9WUe9R23wyEp4NnCRK1a39nJra2ZDyEozCjFyfM",
+            "name": "Idle USDC",
+            "symbol": "IdleUSDC",
+            "decimals": 18
+        },
+        {
+            "address": "0xF34842d05A1c888Ca02769A633DF37177415C2f8",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmfWbomxSBwjqnrCYyCS3UemAKGhyV1BzR3B6q1VkdJz7k",
+            "name": "Idle USDT",
+            "symbol": "IdleUSDT",
+            "decimals": 18
+        },
+        {
+            "address": "0xc278041fdd8249fe4c1aad1193876857eea3d68c",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmS93k73p3WAAYWjAKWSF1s6VJP3aejAZP6rm7xuzAfvTK",
+            "name": "Idle TUSD",
+            "symbol": "IdleTUSD",
+            "decimals": 18
+        }
+    ]
+}
