@@ -176,6 +176,22 @@
             "name": "yEarn USDT v3",
             "symbol": "yUSDT",
             "decimals": 6
+        },
+        {
+            "address": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVnvgZSxHXrJF1oFJNegzPZDE9yNwj76JFXJXP6mryeEG",
+            "name": "Rari Stable Pool Token",
+            "symbol": "RSPT",
+            "decimals": 18
+        },
+        {
+            "address": "0x3baa6b7af0d72006d3ea770ca29100eb848559ae",
+            "chainId": 1,
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVnvgZSxHXrJF1oFJNegzPZDE9yNwj76JFXJXP6mryeEG",
+            "name": "Rari Yield Pool Token",
+            "symbol": "RYPT",
+            "decimals": 18
         }
     ]
 }
