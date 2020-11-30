@@ -1,6 +1,5 @@
 {
-    "$schema": "https://uniswap.org/tokenlist.schema.json",
-    "name": "Interest-Bearing Token List",
+    "name": "Yield Earning Tokens",
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXNG3ZYBTa5aPFWb7YZm3gH3UXeui1z6gQsYfaYyvz292",
     "timestamp": "2020-11-30T00:00:00+00:00",
     "version": {
@@ -148,7 +147,7 @@
         {
             "address": "0x73a052500105205d34daf004eab301916da8190f",
             "chainId": 1,
-            "logoURI": "",
+            "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVhPFPA4XpB6SsyScD9hWFhiQR6Xt84YBH95shBHJcDur",
             "name": "yEarn TUSD v2",
             "symbol": "yTUSD",
             "decimals": 18
